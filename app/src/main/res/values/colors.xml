@@ -5,4 +5,8 @@
     <color name="colorAccent">#D81B60</color>
     <color name="dark_gray">#757575</color>
     <color name="blue">#0BC1E0</color>
+    <color name="light_grey">#F2F2F2</color>
+    <color name="gallery_tour_background">#A29BDE</color>
+    <color name="take_a_tour">#EFCC1E</color>
+    <color name="keeptp_background">#ABD964</color>
 </resources>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sketch.keeptoo">
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"></uses-permission>
 
     <application
         android:allowBackup="true"
@@ -22,6 +23,16 @@
         <activity android:name=".UI.Splash2"
             android:theme="@style/MyTheme"></activity>
         <activity android:name=".UI.LoginScreen"
+            android:theme="@style/MyTheme"></activity>
+        <activity android:name=".UI.PermsissionPage"
+            android:theme="@style/MyTheme"></activity>
+
+
+        <activity android:name=".UI.GalleryTour"
+            android:theme="@style/MyTheme"></activity>
+        <activity android:name=".UI.TourKeepTp"
+            android:theme="@style/MyTheme"></activity>
+        <activity android:name=".UI.TourKeepSafe"
             android:theme="@style/MyTheme"></activity>
     </application>
 

@@ -4,11 +4,35 @@
     <string name="skip">Skip</string>
     <string name="keeptoo"><b>Keep</b></string>
     <string name="too">Too</string>
-    <string name="safe">Safe</string>
+
     <string name="widget">Widget</string>
+    <string name="storage_access">Storage Access Permission</string>
+    <string name="storage_access1">You must confirm Storage\npermission access to enjoy\nKeepToo.Allow?</string>
+    <string name="storage_access2">Please switch on Screen Overlay\npermission to preview new\ndetected media on screen</string>
     <string name="title">Organize your gallery items on the\ngo with a set of easy to use\nfeatures</string>
     <string name="title1">Protect your sensitive photos and\nvideos and get safe access</string>
     <string name="title2">Use on on-screen widget to\norganize your media files fast and\neasy</string>
+    <string name="permission_description">KeepToo requires access to the following\npermission:Storage Allow ?</string>
     <string name="tncdisclaimer">Please accept <b><font color="#e9e9e9">Terms and Privacy Policy</font></b></string>
+    <string name="deny">DENY</string>
+    <string name="later">LATER</string>
+    <string name="ok">OK</string>
+    <string name="allow">ALLOW</string>
+    <string name="temp">Temp</string>
+    <string name="safe">Safe</string>
+    <string name="clean">Clean</string>
+    <string name="setting">Settings</string>
+    <string name="grand_tour">The KeepToo grand tour</string>
+    <string name="take_a_tour">Take a tour</string>
+    <string name="may_be_later">Maybe later</string>
+    <string name="tour">Tour</string>
+    <string name="next">Next</string>
 
+    <string name="grand_tour1">Would you like to take a couple of seconds\nand get to know your best features?</string>
+    <string name="temp3">The Temp Option</string>
+      <string name="temp1">The Temp is a temporary gallery\nthat keep your media files temporarily</string>
+    <string name="temp2">After the time frame is ended,the media\nfile will be automatically deleted</string>
+    <string name="safe1">KeepSafe,better than sorry</string>
+    <string name="safe2">Safe is protected gallery that you can\nsave sensitive media files into </string>
+    <string name="safe3">The plus + button gives you the option\nto import file,take a photo or open a\nnew folder </string>
 </resources>
